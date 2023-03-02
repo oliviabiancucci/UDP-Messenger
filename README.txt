@@ -1,6 +1,5 @@
 CIS 3210 Computer Networks A3
 Olivia Biancucci
-1136788
 
 OVERVIEW:
 This application runs a receiver and sender that can send and receive text messages from a
